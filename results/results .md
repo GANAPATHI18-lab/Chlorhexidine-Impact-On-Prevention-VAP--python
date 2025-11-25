@@ -11,6 +11,9 @@
 - **106 rows** loaded into the analysis  
 - **103 valid participants** included in the final survival model
 
+- 59 cases of **0.12% chlorhexidine** data available
+- 44 cases of **0.20% chlorhexidine** data available
+
 ### Reasons for Reduction
 - Several patients had **missing CPIS measurements**
 - Participants with **no valid CPIS follow-up** could not contribute to time-to-event analysis
@@ -23,7 +26,7 @@
 | Group | Original Article | Survival Dataset | Evidence From KM Curve |
 |-------|------------------|------------------|------------------------|
 | **0.12% CHX** | 7 VAP | ~7 | Early drop in survival |
-| **0.20% CHX** | 2 VAP | ~1–2 | Curve nearly flat |
+| **0.20% CHX** | 2 VAP | ~2 | Curve nearly flat |
 
 - Cox model used **8 total valid VAP events**.
 - One VAP case lacked a valid CPIS day → excluded from time-to-event analysis.
